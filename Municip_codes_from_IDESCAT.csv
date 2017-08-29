@@ -1,949 +1,949 @@
-,Codi ,Nom ,Codi comarca ,Nom comarca 
-0,250019,Abella de la Conca,25,Pallars Jussà
-1,80018,Abrera,11,Baix Llobregat
-2,250030,Agramunt,38,Urgell
-3,80023,Aguilar de Segarra,7,Bages
-4,170010,Agullana,2,Alt Empordà
-5,80142,Aiguafreda,41,Vallès Oriental
-6,430017,Aiguamúrcia,1,Alt Camp
-7,170025,Aiguaviva,20,Gironès
-8,250387,Aitona,33,Segrià
-9,250045,"Alamús, els",33,Segrià
-10,250061,"Albagés, l'",18,Garrigues
-11,170031,Albanyà,2,Alt Empordà
-12,250077,Albatàrrec,33,Segrià
-13,250083,Albesa,23,Noguera
-14,250096,"Albi, l'",18,Garrigues
-15,430022,Albinyana,12,Baix Penedès
-16,430038,"Albiol, l'",8,Baix Camp
-17,170046,Albons,10,Baix Empordà
-18,430043,Alcanar,22,Montsià
-19,250100,Alcanó,33,Segrià
-20,250117,Alcarràs,33,Segrià
-21,250122,Alcoletge,33,Segrià
-22,430056,Alcover,1,Alt Camp
-23,439044,"Aldea, l'",9,Baix Ebre
-24,430069,Aldover,9,Baix Ebre
-25,430075,"Aleixar, l'",8,Baix Camp
-26,80039,Alella,21,Maresme
-27,430081,Alfara de Carles,9,Baix Ebre
-28,250138,Alfarràs,33,Segrià
-29,430094,Alforja,8,Baix Camp
-30,250143,Alfés,33,Segrià
-31,250156,Algerri,23,Noguera
-32,250169,Alguaire,33,Segrià
-33,250175,Alins,26,Pallars Sobirà
-34,430108,Alió,1,Alt Camp
-35,250194,Almacelles,33,Segrià
-36,250208,Almatret,33,Segrià
-37,250215,Almenar,33,Segrià
-38,430115,Almoster,8,Baix Camp
-39,170062,Alp,15,Cerdanya
-40,80044,Alpens,24,Osona
-41,250236,Alpicat,33,Segrià
-42,250241,Alt Àneu,26,Pallars Sobirà
-43,430120,Altafulla,36,Tarragonès
-44,250058,Alàs i Cerc,4,Alt Urgell
-45,250220,Alòs de Balaguer,23,Noguera
-46,170078,Amer,34,Selva
-47,430136,"Ametlla de Mar, l'",9,Baix Ebre
-48,80057,"Ametlla del Vallès, l'",41,Vallès Oriental
-49,439060,"Ampolla, l'",9,Baix Ebre
-50,430141,Amposta,22,Montsià
-51,250273,Anglesola,38,Urgell
-52,170084,Anglès,34,Selva
-53,250292,Arbeca,18,Garrigues
-54,430154,Arbolí,8,Baix Camp
-55,430167,"Arboç, l'",12,Baix Penedès
-56,170097,Arbúcies,34,Selva
-57,80060,Arenys de Mar,21,Maresme
-58,80076,Arenys de Munt,21,Maresme
-59,170101,Argelaguer,19,Garrotxa
-60,430173,"Argentera, l'",8,Baix Camp
-61,80095,Argentona,21,Maresme
-62,80082,Argençola,6,Anoia
-63,170118,"Armentera, l'",2,Alt Empordà
-64,430189,Arnes,37,Terra Alta
-65,250313,Arres,39,Aran
-66,250328,Arsèguel,4,Alt Urgell
-67,250334,Artesa de Lleida,33,Segrià
-68,250349,Artesa de Segre,23,Noguera
-69,80109,Artés,7,Bages
-70,430192,Ascó,30,Ribera d'Ebre
-71,250365,Aspa,33,Segrià
-72,250371,"Avellanes i Santa Linya, les",23,Noguera
-73,170123,Avinyonet de Puigventós,2,Alt Empordà
-74,80137,Avinyonet del Penedès,3,Alt Penedès
-75,80121,Avinyó,7,Bages
-76,80116,Avià,14,Berguedà
-77,80155,Badalona,13,Barcelonès
-78,89045,Badia del Vallès,40,Vallès Occidental
-79,80168,Bagà,14,Berguedà
-80,250390,Baix Pallars,26,Pallars Sobirà
-81,250404,Balaguer,23,Noguera
-82,80174,Balenyà,24,Osona
-83,80180,Balsareny,7,Bages
-84,430206,Banyeres del Penedès,12,Baix Penedès
-85,170157,Banyoles,28,Pla de l'Estany
-86,250411,Barbens,27,Pla d'Urgell
-87,430213,Barberà de la Conca,16,Conca de Barberà
-88,82520,Barberà del Vallès,40,Vallès Occidental
-89,80193,Barcelona,13,Barcelonès
-90,250426,"Baronia de Rialb, la",23,Noguera
-91,250447,Bassella,4,Alt Urgell
-92,430228,Batea,37,Terra Alta
-93,250450,Bausen,39,Aran
-94,80207,Begues,11,Baix Llobregat
-95,170139,Begur,10,Baix Empordà
-96,250463,Belianes,38,Urgell
-97,250485,Bell-lloc d'Urgell,27,Pla d'Urgell
-98,251706,Bellaguarda,18,Garrigues
-99,170182,Bellcaire d'Empordà,10,Baix Empordà
-100,250479,Bellcaire d'Urgell,23,Noguera
-101,250498,Bellmunt d'Urgell,23,Noguera
-102,430234,Bellmunt del Priorat,29,Priorat
-103,80214,Bellprat,6,Anoia
-104,250501,Bellpuig,38,Urgell
-105,430249,Bellvei,12,Baix Penedès
-106,250518,Bellver de Cerdanya,15,Cerdanya
-107,250523,Bellvís,27,Pla d'Urgell
-108,250539,Benavent de Segrià,33,Segrià
-109,430252,Benifallet,9,Baix Ebre
-110,430265,Benissanet,30,Ribera d'Ebre
-111,80229,Berga,14,Berguedà
-112,170195,Besalú,19,Garrotxa
-113,170209,Bescanó,20,Gironès
-114,170216,Beuda,19,Garrotxa
-115,80235,Bigues i Riells,41,Vallès Oriental
-116,250557,Biosca,32,Segarra
-117,170221,"Bisbal d'Empordà, la",10,Baix Empordà
-118,430271,"Bisbal de Falset, la",29,Priorat
-119,430287,"Bisbal del Penedès, la",12,Baix Penedès
-120,172348,Biure,2,Alt Empordà
-121,430290,Blancafort,16,Conca de Barberà
-122,170237,Blanes,34,Selva
-123,170293,Boadella i les Escaules,2,Alt Empordà
-124,170242,Bolvir,15,Cerdanya
-125,430304,Bonastre,12,Baix Penedès
-126,170255,Bordils,20,Gironès
-127,250582,"Borges Blanques, les",18,Garrigues
-128,430311,"Borges del Camp, les",8,Baix Camp
-129,170268,Borrassà,2,Alt Empordà
-130,80240,Borredà,14,Berguedà
-131,250595,Bossòst,39,Aran
-132,430326,Bot,37,Terra Alta
-133,430332,Botarell,8,Baix Camp
-134,250560,Bovera,18,Garrigues
-135,170274,Breda,34,Selva
-136,80253,"Bruc, el",6,Anoia
-137,80266,"Brull, el",24,Osona
-138,170280,Brunyola,34,Selva
-139,430347,Bràfim,1,Alt Camp
-140,170160,Bàscara,2,Alt Empordà
-141,250576,"Bòrdes, Es",39,Aran
-142,430350,Cabacés,29,Priorat
-143,250609,Cabanabona,23,Noguera
-144,170314,Cabanelles,2,Alt Empordà
-145,170307,Cabanes,2,Alt Empordà
-146,80272,"Cabanyes, les",3,Alt Penedès
-147,430363,Cabra del Camp,1,Alt Camp
-148,80288,Cabrera d'Anoia,6,Anoia
-149,80291,Cabrera de Mar,21,Maresme
-150,80305,Cabrils,21,Maresme
-151,250616,Cabó,4,Alt Urgell
-152,170329,Cadaqués,2,Alt Empordà
-153,80312,Calaf,6,Anoia
-154,430379,Calafell,12,Baix Penedès
-155,80348,Calders,42,Moianès
-156,80327,Caldes d'Estrac,21,Maresme
-157,170335,Caldes de Malavella,34,Selva
-158,80333,Caldes de Montbui,41,Vallès Oriental
-159,80351,Calella,21,Maresme
-160,80370,Calldetenes,24,Osona
-161,80386,Callús,7,Bages
-162,170340,Calonge,10,Baix Empordà
-163,80364,Calonge de Segarra,6,Anoia
-164,250621,Camarasa,23,Noguera
-165,439039,Camarles,9,Baix Ebre
-166,430385,Cambrils,8,Baix Camp
-167,170366,Campdevànol,31,Ripollès
-168,170372,Campelles,31,Ripollès
-169,80399,Campins,41,Vallès Oriental
-170,170388,Campllong,20,Gironès
-171,170391,Camprodon,31,Ripollès
-172,170353,Camós,28,Pla de l'Estany
-173,250637,Canejan,39,Aran
-174,170405,Canet d'Adri,20,Gironès
-175,80403,Canet de Mar,21,Maresme
-176,439076,"Canonja, la",36,Tarragonès
-177,80410,Canovelles,41,Vallès Oriental
-178,170412,Cantallops,2,Alt Empordà
-179,80431,Canyelles,17,Garraf
-180,430398,Capafonts,8,Baix Camp
-181,80446,Capellades,6,Anoia
-182,170427,Capmany,2,Alt Empordà
-183,80459,Capolat,14,Berguedà
-184,430402,Capçanes,29,Priorat
-185,80462,Cardedeu,41,Vallès Oriental
-186,80478,Cardona,7,Bages
-187,80484,Carme,6,Anoia
-188,430419,Caseres,37,Terra Alta
-189,80497,Casserres,14,Berguedà
-190,170448,Cassà de la Selva,20,Gironès
-191,259046,Castell de Mur,25,Pallars Jussà
-192,80575,Castell de l'Areny,14,Berguedà
-193,170486,Castell-Platja d'Aro,10,Baix Empordà
-194,250642,Castellar de la Ribera,35,Solsonès
-195,80522,Castellar de n'Hug,14,Berguedà
-196,80500,Castellar del Riu,14,Berguedà
-197,80517,Castellar del Vallès,40,Vallès Occidental
-198,80538,Castellbell i el Vilar,7,Bages
-199,80543,Castellbisbal,40,Vallès Occidental
-200,80556,Castellcir,42,Moianès
-201,250674,Castelldans,18,Garrigues
-202,80569,Castelldefels,11,Baix Llobregat
-203,80581,Castellet i la Gornal,3,Alt Penedès
-204,80608,Castellfollit de Riubregós,6,Anoia
-205,170464,Castellfollit de la Roca,19,Garrotxa
-206,80594,Castellfollit del Boix,7,Bages
-207,80615,Castellgalí,7,Bages
-208,80620,Castellnou de Bages,7,Bages
-209,250680,Castellnou de Seana,27,Pla d'Urgell
-210,80636,Castellolí,6,Anoia
-211,250707,Castellserà,38,Urgell
-212,80641,Castellterçol,42,Moianès
-213,430424,Castellvell del Camp,8,Baix Camp
-214,80667,Castellví de Rosanes,11,Baix Llobregat
-215,80654,Castellví de la Marca,3,Alt Penedès
-216,170470,Castelló d'Empúries,2,Alt Empordà
-217,250693,Castelló de Farfanya,23,Noguera
-218,430430,"Catllar, el",36,Tarragonès
-219,250714,Cava,4,Alt Urgell
-220,171899,"Cellera de Ter, la",34,Selva
-221,170499,Celrà,20,Gironès
-222,80673,Centelles,24,Osona
-223,82687,Cercs,14,Berguedà
-224,82665,Cerdanyola del Vallès,40,Vallès Occidental
-225,80689,Cervelló,11,Baix Llobregat
-226,250729,Cervera,32,Segarra
-227,170502,Cervià de Ter,20,Gironès
-228,250735,Cervià de les Garrigues,18,Garrigues
-229,170519,Cistella,2,Alt Empordà
-230,250740,Ciutadilla,38,Urgell
-231,250753,Clariana de Cardener,35,Solsonès
-232,250766,"Cogul, el",18,Garrigues
-233,170545,Colera,2,Alt Empordà
-234,250772,Coll de Nargó,4,Alt Urgell
-235,80692,Collbató,11,Baix Llobregat
-236,430458,Colldejou,8,Baix Camp
-237,80706,Collsuspina,42,Moianès
-238,170558,Colomers,10,Baix Empordà
-239,251636,"Coma i la Pedra, la",35,Solsonès
-240,251615,Conca de Dalt,25,Pallars Jussà
-241,430461,Conesa,16,Conca de Barberà
-242,430477,Constantí,36,Tarragonès
-243,80713,Copons,6,Anoia
-244,430483,Corbera d'Ebre,37,Terra Alta
-245,80728,Corbera de Llobregat,11,Baix Llobregat
-246,250788,Corbins,33,Segrià
-247,80734,Cornellà de Llobregat,11,Baix Llobregat
-248,170561,Cornellà del Terri,28,Pla de l'Estany
-249,430496,Cornudella de Montsant,29,Priorat
-250,170577,Corçà,10,Baix Empordà
-251,430509,Creixell,36,Tarragonès
-252,170583,Crespià,28,Pla de l'Estany
-253,179011,"Cruïlles, Monells i Sant Sadurní de l'Heura",10,Baix Empordà
-254,80749,Cubelles,17,Garraf
-255,250791,Cubells,23,Noguera
-256,430516,Cunit,12,Baix Penedès
-257,80425,Cànoves i Samalús,41,Vallès Oriental
-258,170600,Darnius,2,Alt Empordà
-259,170617,Das,15,Cerdanya
-260,439018,Deltebre,9,Baix Ebre
-261,80752,Dosrius,21,Maresme
-262,430537,Duesaigües,8,Baix Camp
-263,170622,"Escala, l'",2,Alt Empordà
-264,80765,Esparreguera,11,Baix Llobregat
-265,170638,Espinelves,24,Osona
-266,250812,"Espluga Calba, l'",18,Garrigues
-267,430542,"Espluga de Francolí, l'",16,Conca de Barberà
-268,80771,Esplugues de Llobregat,11,Baix Llobregat
-269,170643,Espolla,2,Alt Empordà
-270,170656,Esponellà,28,Pla de l'Estany
-271,250827,Espot,26,Pallars Sobirà
-272,80787,"Espunyola, l'",14,Berguedà
-273,82541,"Esquirol, l'",24,Osona
-274,250886,Estamariu,4,Alt Urgell
-275,80790,"Estany, l'",42,Moianès
-276,250851,Estaràs,32,Segarra
-277,250864,Esterri d'Àneu,26,Pallars Sobirà
-278,250870,Esterri de Cardós,26,Pallars Sobirà
-279,430555,Falset,29,Priorat
-280,170059,"Far d'Empordà, el",2,Alt Empordà
-281,250899,Farrera,26,Pallars Sobirà
-282,430568,"Fatarella, la",37,Terra Alta
-283,430574,"Febró, la",8,Baix Camp
-284,81347,Figaró-Montmany,41,Vallès Oriental
-285,430580,"Figuera, la",29,Priorat
-286,170669,Figueres,2,Alt Empordà
-287,430593,Figuerola del Camp,1,Alt Camp
-288,170675,Flaçà,20,Gironès
-289,430607,Flix,30,Ribera d'Ebre
-290,250925,"Floresta, la",18,Garrigues
-291,80811,Fogars de Montclús,41,Vallès Oriental
-292,80826,Fogars de la Selva,34,Selva
-293,170681,Foixà,10,Baix Empordà
-294,80832,Folgueroles,24,Osona
-295,250931,Fondarella,27,Pla d'Urgell
-296,80847,Fonollosa,7,Bages
-297,80850,Font-rubí,3,Alt Penedès
-298,170694,Fontanals de Cerdanya,15,Cerdanya
-299,170708,Fontanilles,10,Baix Empordà
-300,170715,Fontcoberta,28,Pla de l'Estany
-301,250946,Foradada,23,Noguera
-302,179026,Forallac,10,Baix Empordà
-303,170736,Fornells de la Selva,20,Gironès
-304,170741,Fortià,2,Alt Empordà
-305,430614,Forès,16,Conca de Barberà
-306,80863,"Franqueses del Vallès, les",41,Vallès Oriental
-307,430629,Freginals,22,Montsià
-308,250962,"Fuliola, la",38,Urgell
-309,250978,Fulleda,18,Garrigues
-310,80804,Fígols,14,Berguedà
-311,259084,Fígols i Alinyà,4,Alt Urgell
-312,80902,Gaià,7,Bages
-313,430635,"Galera, la",22,Montsià
-314,80879,Gallifa,40,Vallès Occidental
-315,430640,Gandesa,37,Terra Alta
-316,430653,Garcia,30,Ribera d'Ebre
-317,430666,"Garidells, els",1,Alt Camp
-318,80885,"Garriga, la",41,Vallès Oriental
-319,170767,Garrigoles,10,Baix Empordà
-320,170773,Garriguella,2,Alt Empordà
-321,170754,Garrigàs,2,Alt Empordà
-322,250984,Gavet de la Conca,25,Pallars Jussà
-323,80898,Gavà,11,Baix Llobregat
-324,80919,Gelida,3,Alt Penedès
-325,170789,Ger,15,Cerdanya
-326,259123,Gimenells i el Pla de la Font,33,Segrià
-327,430672,Ginestar,30,Ribera d'Ebre
-328,170792,Girona,20,Gironès
-329,80924,Gironella,14,Berguedà
-330,80930,Gisclareny,14,Berguedà
-331,430688,Godall,22,Montsià
-332,250997,Golmés,27,Pla d'Urgell
-333,170806,Gombrèn,31,Ripollès
-334,80945,"Granada, la",3,Alt Penedès
-335,251018,"Granadella, la",18,Garrigues
-336,80958,Granera,42,Moianès
-337,251023,"Granja d'Escarp, la",33,Segrià
-338,80961,Granollers,41,Vallès Oriental
-339,251039,Granyanella,32,Segarra
-340,251044,Granyena de Segarra,32,Segarra
-341,251057,Granyena de les Garrigues,18,Garrigues
-342,430691,Gratallops,29,Priorat
-343,80977,Gualba,41,Vallès Oriental
-344,170813,Gualta,10,Baix Empordà
-345,80996,Guardiola de Berguedà,14,Berguedà
-346,430705,"Guiamets, els",29,Priorat
-347,170828,Guils de Cerdanya,15,Cerdanya
-348,251095,Guimerà,38,Urgell
-349,259031,"Guingueta d'Àneu, la",26,Pallars Sobirà
-350,251109,Guissona,32,Segarra
-351,251116,Guixers,35,Solsonès
-352,81000,Gurb,24,Osona
-353,251001,Gósol,14,Berguedà
-354,430712,Horta de Sant Joan,37,Terra Alta
-355,81017,"Hospitalet de Llobregat, l'",13,Barcelonès
-356,81629,"Hostalets de Pierola, els",6,Anoia
-357,170834,Hostalric,34,Selva
-358,81022,Igualada,6,Anoia
-359,251155,Isona i Conca Dellà,25,Pallars Jussà
-360,170849,Isòvol,15,Cerdanya
-361,251137,Ivars d'Urgell,27,Pla d'Urgell
-362,251121,Ivars de Noguera,23,Noguera
-363,251142,Ivorra,32,Segarra
-364,170852,Jafre,10,Baix Empordà
-365,170865,"Jonquera, la",2,Alt Empordà
-366,81038,Jorba,6,Anoia
-367,259101,Josa i Tuixén,4,Alt Urgell
-368,170871,Juià,20,Gironès
-369,251180,Juncosa,18,Garrigues
-370,251193,Juneda,18,Garrigues
-371,251214,Les,39,Aran
-372,251229,Linyola,27,Pla d'Urgell
-373,81043,"Llacuna, la",6,Anoia
-374,251235,Lladorre,26,Pallars Sobirà
-375,251240,Lladurs,35,Solsonès
-376,170887,Lladó,2,Alt Empordà
-377,81056,"Llagosta, la",41,Vallès Oriental
-378,170890,Llagostera,20,Gironès
-379,170904,Llambilles,20,Gironès
-380,170911,Llanars,31,Ripollès
-381,170926,Llançà,2,Alt Empordà
-382,251253,Llardecans,33,Segrià
-383,251266,Llavorsí,26,Pallars Sobirà
-384,251207,Lleida,33,Segrià
-385,170932,Llers,2,Alt Empordà
-386,251272,Lles de Cerdanya,15,Cerdanya
-387,251288,Llimiana,25,Pallars Jussà
-388,81069,Llinars del Vallès,41,Vallès Oriental
-389,81075,Lliçà d'Amunt,41,Vallès Oriental
-390,81081,Lliçà de Vall,41,Vallès Oriental
-391,430727,"Lloar, el",29,Priorat
-392,251291,Llobera,35,Solsonès
-393,430733,Llorac,16,Conca de Barberà
-394,430748,Llorenç del Penedès,12,Baix Penedès
-395,170950,Lloret de Mar,34,Selva
-396,170963,"Llosses, les",31,Ripollès
-397,81094,Lluçà,24,Osona
-398,170947,Llívia,15,Cerdanya
-399,170979,Madremanya,20,Gironès
-400,251333,Maials,33,Segrià
-401,170985,Maià de Montcal,19,Garrotxa
-402,251305,Maldà,38,Urgell
-403,81108,Malgrat de Mar,21,Maresme
-404,81115,Malla,24,Osona
-405,81120,Manlleu,24,Osona
-406,81136,Manresa,7,Bages
-407,430751,Margalef,29,Priorat
-408,82423,Marganell,7,Bages
-409,81141,Martorell,11,Baix Llobregat
-410,81154,Martorelles,41,Vallès Oriental
-411,430764,Marçà,29,Priorat
-412,430770,Mas de Barberans,22,Montsià
-413,171002,Masarac,2,Alt Empordà
-414,430786,Masdenverge,22,Montsià
-415,81167,"Masies de Roda, les",24,Osona
-416,81173,"Masies de Voltregà, les",24,Osona
-417,430799,Masllorenç,12,Baix Penedès
-418,81189,"Masnou, el",21,Maresme
-419,430810,Maspujols,8,Baix Camp
-420,81192,Masquefa,6,Anoia
-421,430825,"Masroig, el",29,Priorat
-422,251312,Massalcoreig,33,Segrià
-423,171019,Massanes,34,Selva
-424,251327,Massoteres,32,Segarra
-425,430803,"Masó, la",1,Alt Camp
-426,81206,Matadepera,40,Vallès Occidental
-427,81213,Mataró,21,Maresme
-428,171024,Maçanet de Cabrenys,2,Alt Empordà
-429,171030,Maçanet de la Selva,34,Selva
-430,171045,Medinyà,20,Gironès
-431,81228,Mediona,3,Alt Penedès
-432,251348,Menàrguens,23,Noguera
-433,170998,Meranges,15,Cerdanya
-434,171058,Mieres,19,Garrotxa
-435,430831,"Milà, el",1,Alt Camp
-436,251351,Miralcamp,27,Pla d'Urgell
-437,430846,Miravet,30,Ribera d'Ebre
-438,81385,Moià,42,Moianès
-439,430859,"Molar, el",29,Priorat
-440,81234,Molins de Rei,11,Baix Llobregat
-441,251370,Mollerussa,27,Pla d'Urgell
-442,171061,Mollet de Peralada,2,Alt Empordà
-443,81249,Mollet del Vallès,41,Vallès Oriental
-444,171077,Molló,31,Ripollès
-445,251364,"Molsosa, la",35,Solsonès
-446,81287,Monistrol de Calders,42,Moianès
-447,81271,Monistrol de Montserrat,7,Bages
-448,430918,Mont-ral,1,Alt Camp
-449,171100,Mont-ras,10,Baix Empordà
-450,430923,Mont-roig del Camp,8,Baix Camp
-451,171096,Montagut i Oix,19,Garrotxa
-452,430862,Montblanc,16,Conca de Barberà
-453,430884,Montbrió del Camp,8,Baix Camp
-454,81252,Montcada i Reixac,40,Vallès Occidental
-455,81304,Montclar,14,Berguedà
-456,251399,Montellà i Martinet,15,Cerdanya
-457,81311,Montesquiu,24,Osona
-458,251403,Montferrer i Castellbò,4,Alt Urgell
-459,430897,Montferri,1,Alt Camp
-460,251386,Montgai,23,Noguera
-461,81265,Montgat,21,Maresme
-462,81326,Montmajor,14,Berguedà
-463,81332,Montmaneu,6,Anoia
-464,430901,"Montmell, el",12,Baix Penedès
-465,81350,Montmeló,41,Vallès Oriental
-466,251425,Montoliu de Lleida,33,Segrià
-467,251410,Montoliu de Segarra,32,Segarra
-468,251431,Montornès de Segarra,32,Segarra
-469,81363,Montornès del Vallès,41,Vallès Oriental
-470,81379,Montseny,41,Vallès Oriental
-471,430957,"Morell, el",36,Tarragonès
-472,430960,"Morera de Montsant, la",29,Priorat
-473,81290,Muntanyola,24,Osona
-474,81398,Mura,7,Bages
-475,430939,Móra d'Ebre,30,Ribera d'Ebre
-476,430944,Móra la Nova,30,Ribera d'Ebre
-477,251459,Nalec,38,Urgell
-478,250254,Naut Aran,39,Aran
-479,81402,Navarcles,7,Bages
-480,171117,Navata,2,Alt Empordà
-481,81419,Navàs,7,Bages
-482,251462,Navès,35,Solsonès
-483,81424,"Nou de Berguedà, la",14,Berguedà
-484,430976,"Nou de Gaià, la",36,Tarragonès
-485,430982,Nulles,1,Alt Camp
-486,251484,Odèn,35,Solsonès
-487,171122,Ogassa,31,Ripollès
-488,81461,Olesa de Bonesvalls,3,Alt Penedès
-489,81477,Olesa de Montserrat,11,Baix Llobregat
-490,251497,Oliana,4,Alt Urgell
-491,251500,Oliola,23,Noguera
-492,251517,Olius,35,Solsonès
-493,81483,Olivella,17,Garraf
-494,81496,Olost,24,Osona
-495,171143,Olot,19,Garrotxa
-496,251522,"Oluges, les",32,Segarra
-497,81445,Olvan,14,Berguedà
-498,81458,Olèrdola,3,Alt Penedès
-499,251538,"Omellons, els",18,Garrigues
-500,251543,"Omells de na Gaia, els",38,Urgell
-501,171156,Ordis,2,Alt Empordà
-502,251556,Organyà,4,Alt Urgell
-503,81516,Oristà,24,Osona
-504,81521,Orpí,6,Anoia
-505,81509,Orís,24,Osona
-506,251569,Os de Balaguer,23,Noguera
-507,171169,Osor,34,Selva
-508,251575,Ossó de Sió,38,Urgell
-509,81542,Pacs del Penedès,3,Alt Penedès
-510,81555,Palafolls,21,Maresme
-511,171175,Palafrugell,10,Baix Empordà
-512,171181,Palamós,10,Baix Empordà
-513,251581,"Palau d'Anglesola, el",27,Pla d'Urgell
-514,171194,Palau de Santa Eulàlia,2,Alt Empordà
-515,171215,Palau-sator,10,Baix Empordà
-516,171208,Palau-saverdera,2,Alt Empordà
-517,81568,Palau-solità i Plegamans,40,Vallès Occidental
-518,431009,"Pallaresos, els",36,Tarragonès
-519,81574,Pallejà,11,Baix Llobregat
-520,430995,"Palma d'Ebre, la",30,Ribera d'Ebre
-521,89058,"Palma de Cervelló, la",11,Baix Llobregat
-522,171236,Palol de Revardit,28,Pla de l'Estany
-523,171241,Pals,10,Baix Empordà
-524,81580,"Papiol, el",11,Baix Llobregat
-525,171254,Pardines,31,Ripollès
-526,81593,Parets del Vallès,41,Vallès Oriental
-527,171267,Parlavà,10,Baix Empordà
-528,431016,Passanant i Belltall,16,Conca de Barberà
-529,171289,Pau,2,Alt Empordà
-530,431021,Paüls,9,Baix Ebre
-531,171292,Pedret i Marzà,2,Alt Empordà
-532,251641,Penelles,23,Noguera
-533,171306,"Pera, la",10,Baix Empordà
-534,81607,Perafita,24,Osona
-535,431037,Perafort,36,Tarragonès
-536,171328,Peralada,2,Alt Empordà
-537,251654,Peramola,4,Alt Urgell
-538,431042,"Perelló, el",9,Baix Ebre
-539,81614,Piera,6,Anoia
-540,431055,"Piles, les",16,Conca de Barberà
-541,81635,Pineda de Mar,21,Maresme
-542,431068,"Pinell de Brai, el",37,Terra Alta
-543,251667,Pinell de Solsonès,35,Solsonès
-544,251673,Pinós,35,Solsonès
-545,431074,Pira,16,Conca de Barberà
-546,431080,"Pla de Santa Maria, el",1,Alt Camp
-547,81640,"Pla del Penedès, el",3,Alt Penedès
-548,171334,"Planes d'Hostoles, les",19,Garrotxa
-549,171349,Planoles,31,Ripollès
-550,259118,"Plans de Sió, els",32,Segarra
-551,251689,"Poal, el",27,Pla d'Urgell
-552,81653,"Pobla de Claramunt, la",6,Anoia
-553,251692,"Pobla de Cérvoles, la",18,Garrigues
-554,81666,"Pobla de Lillet, la",14,Berguedà
-555,431093,"Pobla de Mafumet, la",36,Tarragonès
-556,431107,"Pobla de Massaluca, la",37,Terra Alta
-557,431114,"Pobla de Montornès, la",36,Tarragonès
-558,251713,"Pobla de Segur, la",25,Pallars Jussà
-559,431129,Poboleda,29,Priorat
-560,81672,Polinyà,40,Vallès Occidental
-561,431135,"Pont d'Armentera, el",1,Alt Camp
-562,250306,"Pont de Bar, el",4,Alt Urgell
-563,171352,Pont de Molins,2,Alt Empordà
-564,251734,"Pont de Suert, el",5,Alta Ribagorça
-565,81825,"Pont de Vilomara i Rocafort, el",7,Bages
-566,431418,Pontils,16,Conca de Barberà
-567,81688,Pontons,3,Alt Penedès
-568,251728,Ponts,23,Noguera
-569,171365,Pontós,2,Alt Empordà
-570,171371,Porqueres,28,Pla de l'Estany
-571,431140,Porrera,29,Priorat
-572,171404,"Port de la Selva, el",2,Alt Empordà
-573,171387,Portbou,2,Alt Empordà
-574,251749,"Portella, la",33,Segrià
-575,431153,Pradell de la Teixeta,29,Priorat
-576,431166,Prades,8,Baix Camp
-577,431172,Prat de Comte,37,Terra Alta
-578,81691,"Prat de Llobregat, el",11,Baix Llobregat
-579,431188,Pratdip,8,Baix Camp
-580,81712,Prats de Lluçanès,24,Osona
-581,81705,"Prats de Rei, els",6,Anoia
-582,251752,Prats i Sansor,15,Cerdanya
-583,251765,Preixana,38,Urgell
-584,251771,Preixens,23,Noguera
-585,82303,Premià de Dalt,21,Maresme
-586,81727,Premià de Mar,21,Maresme
-587,171390,"Preses, les",19,Garrotxa
-588,251790,Prullans,15,Cerdanya
-589,81751,Puig-reig,14,Berguedà
-590,171411,Puigcerdà,15,Cerdanya
-591,81748,Puigdàlber,3,Alt Penedès
-592,251804,Puiggròs,18,Garrigues
-593,431191,Puigpelat,1,Alt Camp
-594,251811,Puigverd d'Agramunt,38,Urgell
-595,251826,Puigverd de Lleida,33,Segrià
-596,81764,Pujalt,6,Anoia
-597,81770,"Quar, la",14,Berguedà
-598,171426,Quart,20,Gironès
-599,170433,Queralbs,31,Ripollès
-600,431205,Querol,1,Alt Camp
-601,171432,Rabós,2,Alt Empordà
-602,81786,Rajadell,7,Bages
-603,431212,Rasquera,30,Ribera d'Ebre
-604,171447,Regencós,10,Baix Empordà
-605,81799,Rellinars,40,Vallès Occidental
-606,431227,Renau,36,Tarragonès
-607,431233,Reus,8,Baix Camp
-608,251832,Rialp,26,Pallars Sobirà
-609,431248,"Riba, la",1,Alt Camp
-610,431251,Riba-roja d'Ebre,30,Ribera d'Ebre
-611,259059,Ribera d'Ondara,32,Segarra
-612,251850,Ribera d'Urgellet,4,Alt Urgell
-613,171450,Ribes de Freser,31,Ripollès
-614,171463,Riells i Viabrea,34,Selva
-615,431264,"Riera de Gaià, la",36,Tarragonès
-616,251863,Riner,35,Solsonès
-617,171479,Ripoll,31,Ripollès
-618,81803,Ripollet,40,Vallès Occidental
-619,259139,Riu de Cerdanya,15,Cerdanya
-620,171485,Riudarenes,34,Selva
-621,171498,Riudaura,19,Garrotxa
-622,431270,Riudecanyes,8,Baix Camp
-623,431286,Riudecols,8,Baix Camp
-624,171501,Riudellots de la Selva,34,Selva
-625,431299,Riudoms,8,Baix Camp
-626,171518,Riumors,2,Alt Empordà
-627,81810,"Roca del Vallès, la",41,Vallès Oriental
-628,431303,Rocafort de Queralt,16,Conca de Barberà
-629,431310,Roda de Berà,36,Tarragonès
-630,81831,Roda de Ter,24,Osona
-631,431325,Rodonyà,1,Alt Camp
-632,431331,Roquetes,9,Baix Ebre
-633,171523,Roses,2,Alt Empordà
-634,251898,Rosselló,33,Segrià
-635,431346,"Rourell, el",1,Alt Camp
-636,81859,Rubió,6,Anoia
-637,81846,Rubí,40,Vallès Occidental
-638,89019,Rupit i Pruit,24,Osona
-639,171539,Rupià,10,Baix Empordà
-640,81878,Sabadell,40,Vallès Occidental
-641,81884,Sagàs,14,Berguedà
-642,81901,Saldes,14,Berguedà
-643,171544,Sales de Llierca,19,Garrotxa
-644,81918,Sallent,7,Bages
-645,431359,Salomó,36,Tarragonès
-646,439057,Salou,36,Tarragonès
-647,171557,Salt,20,Gironès
-648,251902,Salàs de Pallars,25,Pallars Jussà
-649,251919,Sanaüja,32,Segarra
-650,81944,Sant Adrià de Besòs,13,Barcelonès
-651,81957,Sant Agustí de Lluçanès,24,Osona
-652,171576,Sant Andreu Salou,20,Gironès
-653,81976,Sant Andreu de Llavaneres,21,Maresme
-654,81960,Sant Andreu de la Barca,11,Baix Llobregat
-655,171833,Sant Aniol de Finestres,19,Garrotxa
-656,81982,Sant Antoni de Vilamajor,41,Vallès Oriental
-657,81995,Sant Bartomeu del Grau,24,Osona
-658,82009,Sant Boi de Llobregat,11,Baix Llobregat
-659,82016,Sant Boi de Lluçanès,24,Osona
-660,431362,Sant Carles de la Ràpita,22,Montsià
-661,82037,Sant Cebrià de Vallalta,21,Maresme
-662,82021,Sant Celoni,41,Vallès Oriental
-663,171582,Sant Climent Sescebes,2,Alt Empordà
-664,82042,Sant Climent de Llobregat,11,Baix Llobregat
-665,82068,Sant Cugat Sesgarrigues,3,Alt Penedès
-666,82055,Sant Cugat del Vallès,40,Vallès Occidental
-667,82080,Sant Esteve Sesrovires,11,Baix Llobregat
-668,82074,Sant Esteve de Palautordera,41,Vallès Oriental
-669,251961,Sant Esteve de la Sarga,25,Pallars Jussà
-670,82129,Sant Feliu Sasserra,7,Bages
-671,171595,Sant Feliu de Buixalleu,34,Selva
-672,82107,Sant Feliu de Codines,41,Vallès Oriental
-673,171609,Sant Feliu de Guíxols,10,Baix Empordà
-674,82114,Sant Feliu de Llobregat,11,Baix Llobregat
-675,171616,Sant Feliu de Pallerols,19,Garrotxa
-676,171621,Sant Ferriol,19,Garrotxa
-677,82093,Sant Fost de Campsentelles,41,Vallès Oriental
-678,82135,Sant Fruitós de Bages,7,Bages
-679,171637,Sant Gregori,20,Gironès
-680,251924,Sant Guim de Freixenet,32,Segarra
-681,251977,Sant Guim de la Plana,32,Segarra
-682,171642,Sant Hilari Sacalm,34,Selva
-683,82153,Sant Hipòlit de Voltregà,24,Osona
-684,81939,Sant Iscle de Vallalta,21,Maresme
-685,439023,Sant Jaume d'Enveja,22,Montsià
-686,82166,Sant Jaume de Frontanyà,14,Berguedà
-687,171655,Sant Jaume de Llierca,19,Garrotxa
-688,431378,Sant Jaume dels Domenys,12,Baix Penedès
-689,82172,Sant Joan Despí,11,Baix Llobregat
-690,171680,Sant Joan de Mollet,20,Gironès
-691,82188,Sant Joan de Vilatorrada,7,Bages
-692,171674,Sant Joan de les Abadesses,31,Ripollès
-693,171851,Sant Joan les Fonts,19,Garrotxa
-694,171668,Sant Jordi Desvalls,20,Gironès
-695,89030,Sant Julià de Cerdanyola,14,Berguedà
-696,171693,Sant Julià de Ramis,20,Gironès
-697,82205,Sant Julià de Vilatorta,24,Osona
-698,179032,Sant Julià del Llor i Bonmatí,34,Selva
-699,82212,Sant Just Desvern,11,Baix Llobregat
-700,82233,Sant Llorenç Savall,40,Vallès Occidental
-701,82227,Sant Llorenç d'Hortons,3,Alt Penedès
-702,251930,Sant Llorenç de Morunys,35,Solsonès
-703,171714,Sant Llorenç de la Muga,2,Alt Empordà
-704,82270,Sant Martí Sarroca,3,Alt Penedès
-705,82286,Sant Martí Sesgueioles,6,Anoia
-706,171735,Sant Martí Vell,20,Gironès
-707,82251,Sant Martí d'Albars,24,Osona
-708,82248,Sant Martí de Centelles,24,Osona
-709,171729,Sant Martí de Llémena,20,Gironès
-710,259025,Sant Martí de Riucorb,38,Urgell
-711,82264,Sant Martí de Tous,6,Anoia
-712,82299,Sant Mateu de Bages,7,Bages
-713,171740,Sant Miquel de Campmajor,28,Pla de l'Estany
-714,171753,Sant Miquel de Fluvià,2,Alt Empordà
-715,171766,Sant Mori,2,Alt Empordà
-716,171772,Sant Pau de Segúries,31,Ripollès
-717,171788,Sant Pere Pescador,2,Alt Empordà
-718,81897,Sant Pere Sallavinera,6,Anoia
-719,82310,Sant Pere de Ribes,17,Garraf
-720,82325,Sant Pere de Riudebitlles,3,Alt Penedès
-721,82331,Sant Pere de Torelló,24,Osona
-722,82346,Sant Pere de Vilamajor,41,Vallès Oriental
-723,82359,Sant Pol de Mar,21,Maresme
-724,82362,Sant Quintí de Mediona,3,Alt Penedès
-725,82397,Sant Quirze Safaja,42,Moianès
-726,82378,Sant Quirze de Besora,24,Osona
-727,82384,Sant Quirze del Vallès,40,Vallès Occidental
-728,251945,Sant Ramon,32,Segarra
-729,82401,Sant Sadurní d'Anoia,3,Alt Penedès
-730,82418,Sant Sadurní d'Osormort,24,Osona
-731,80983,Sant Salvador de Guardiola,7,Bages
-732,82628,Sant Vicenç de Castellet,7,Bages
-733,82649,Sant Vicenç de Montalt,21,Maresme
-734,82652,Sant Vicenç de Torelló,24,Osona
-735,82634,Sant Vicenç dels Horts,11,Baix Llobregat
-736,431384,Santa Bàrbara,22,Montsià
-737,82439,Santa Cecília de Voltregà,24,Osona
-738,82444,Santa Coloma de Cervelló,11,Baix Llobregat
-739,171805,Santa Coloma de Farners,34,Selva
-740,82457,Santa Coloma de Gramenet,13,Barcelonès
-741,431397,Santa Coloma de Queralt,16,Conca de Barberà
-742,171812,Santa Cristina d'Aro,10,Baix Empordà
-743,82460,Santa Eugènia de Berga,24,Osona
-744,82476,Santa Eulàlia de Riuprimer,24,Osona
-745,82482,Santa Eulàlia de Ronçana,41,Vallès Oriental
-746,82495,Santa Fe del Penedès,3,Alt Penedès
-747,171827,Santa Llogaia d'Àlguema,2,Alt Empordà
-748,82508,Santa Margarida de Montbui,6,Anoia
-749,82515,Santa Margarida i els Monjos,3,Alt Penedès
-750,82589,Santa Maria d'Oló,42,Moianès
-751,82536,Santa Maria de Besora,24,Osona
-752,82567,Santa Maria de Martorelles,41,Vallès Oriental
-753,82554,Santa Maria de Merlès,14,Berguedà
-754,82573,Santa Maria de Miralles,6,Anoia
-755,82592,Santa Maria de Palautordera,41,Vallès Oriental
-756,431401,Santa Oliva,12,Baix Penedès
-757,171848,Santa Pau,19,Garrotxa
-758,82606,Santa Perpètua de Mogoda,40,Vallès Occidental
-759,82613,Santa Susanna,21,Maresme
-760,81923,Santpedor,7,Bages
-761,431423,Sarral,16,Conca de Barberà
-762,171864,Sarrià de Ter,20,Gironès
-763,252017,Sarroca de Bellera,25,Pallars Jussà
-764,252000,Sarroca de Lleida,33,Segrià
-765,171870,"Saus, Camallera i Llampaies",2,Alt Empordà
-766,431439,Savallà del Comtat,16,Conca de Barberà
-767,431444,"Secuita, la",36,Tarragonès
-768,171886,"Selva de Mar, la",2,Alt Empordà
-769,431457,"Selva del Camp, la",8,Baix Camp
-770,431460,Senan,16,Conca de Barberà
-771,252022,Senterada,25,Pallars Jussà
-772,250352,"Sentiu de Sió, la",23,Noguera
-773,82671,Sentmenat,40,Vallès Occidental
-774,171903,Serinyà,28,Pla de l'Estany
-775,171910,Serra de Daró,10,Baix Empordà
-776,252043,Seròs,33,Segrià
-777,171925,Setcases,31,Ripollès
-778,252038,"Seu d'Urgell, la",4,Alt Urgell
-779,82690,Seva,24,Osona
-780,252056,Sidamon,27,Pla d'Urgell
-781,171931,Sils,34,Selva
-782,82704,Sitges,17,Garraf
-783,170524,Siurana,2,Alt Empordà
-784,82711,Sobremunt,24,Osona
-785,252069,"Soleràs, el",18,Garrigues
-786,431476,Solivella,16,Conca de Barberà
-787,252075,Solsona,35,Solsonès
-788,82726,Sora,24,Osona
-789,252081,Soriguera,26,Pallars Sobirà
-790,252094,Sort,26,Pallars Sobirà
-791,252108,Soses,33,Segrià
-792,82732,Subirats,3,Alt Penedès
-793,252115,Sudanell,33,Segrià
-794,252120,Sunyer,33,Segrià
-795,171946,Susqueda,34,Selva
-796,430445,"Sénia, la",22,Montsià
-797,82747,Súria,7,Bages
-798,82763,Tagamanent,41,Vallès Oriental
-799,82779,Talamanca,7,Bages
-800,252154,Talarn,25,Pallars Jussà
-801,252167,Talavera,32,Segarra
-802,171959,"Tallada d'Empordà, la",10,Baix Empordà
-803,82785,Taradell,24,Osona
-804,431482,Tarragona,36,Tarragonès
-805,252192,Tarroja de Segarra,32,Segarra
-806,252189,Tarrés,18,Garrigues
-807,82802,Tavertet,24,Osona
-808,82750,Tavèrnoles,24,Osona
-809,82819,Teià,21,Maresme
-810,171962,Terrades,2,Alt Empordà
-811,82798,Terrassa,40,Vallès Occidental
-812,82824,Tiana,21,Maresme
-813,252228,Tiurana,23,Noguera
-814,431495,Tivenys,9,Baix Ebre
-815,431508,Tivissa,30,Ribera d'Ebre
-816,82830,Tona,24,Osona
-817,82845,Tordera,21,Maresme
-818,82858,Torelló,24,Osona
-819,252249,"Torms, els",18,Garrigues
-820,252252,Tornabous,38,Urgell
-821,252271,"Torre de Cabdella, la",25,Pallars Jussà
-822,82861,"Torre de Claramunt, la",6,Anoia
-823,431515,"Torre de Fontaubella, la",29,Priorat
-824,431520,"Torre de l'Espanyol, la",30,Ribera d'Ebre
-825,252332,Torre-serona,33,Segrià
-826,252265,Torrebesses,33,Segrià
-827,431536,Torredembarra,36,Tarragonès
-828,252287,Torrefarrera,33,Segrià
-829,259078,Torrefeta i Florejacs,32,Segarra
-830,252304,Torregrossa,27,Pla d'Urgell
-831,252311,Torrelameu,23,Noguera
-832,82877,Torrelavit,3,Alt Penedès
-833,82883,Torrelles de Foix,3,Alt Penedès
-834,82896,Torrelles de Llobregat,11,Baix Llobregat
-835,171978,Torrent,10,Baix Empordà
-836,252326,Torres de Segre,33,Segrià
-837,171984,Torroella de Fluvià,2,Alt Empordà
-838,171997,Torroella de Montgrí,10,Baix Empordà
-839,431541,Torroja del Priorat,29,Priorat
-840,172001,Tortellà,19,Garrotxa
-841,431554,Tortosa,9,Baix Ebre
-842,252234,Torà,32,Segarra
-843,172018,Toses,31,Ripollès
-844,172023,Tossa de Mar,34,Selva
-845,252347,Tremp,25,Pallars Jussà
-846,252173,Tàrrega,38,Urgell
-847,252206,Térmens,23,Noguera
-848,252213,Tírvia,26,Pallars Sobirà
-849,82900,Ullastrell,40,Vallès Occidental
-850,172057,Ullastret,10,Baix Empordà
-851,431567,Ulldecona,22,Montsià
-852,431573,Ulldemolins,29,Priorat
-853,172044,Ullà,10,Baix Empordà
-854,172039,Ultramort,10,Baix Empordà
-855,172060,Urús,15,Cerdanya
-856,82917,Vacarisses,40,Vallès Occidental
-857,170144,"Vajol, la",2,Alt Empordà
-858,172076,"Vall d'en Bas, la",19,Garrotxa
-859,172082,"Vall de Bianya, la",19,Garrotxa
-860,250432,"Vall de Boí, la",5,Alta Ribagorça
-861,259010,Vall de Cardós,26,Pallars Sobirà
-862,172095,Vall-llobrega,10,Baix Empordà
-863,82922,Vallbona d'Anoia,6,Anoia
-864,252385,Vallbona de les Monges,38,Urgell
-865,82938,Vallcebre,14,Berguedà
-866,431589,Vallclara,16,Conca de Barberà
-867,252402,Vallfogona de Balaguer,23,Noguera
-868,171707,Vallfogona de Ripollès,31,Ripollès
-869,431592,Vallfogona de Riucorb,16,Conca de Barberà
-870,82943,Vallgorguina,41,Vallès Oriental
-871,82956,Vallirana,11,Baix Llobregat
-872,431606,Vallmoll,1,Alt Camp
-873,82969,Vallromanes,41,Vallès Oriental
-874,431613,Valls,1,Alt Camp
-875,259062,"Valls d'Aguilar, les",4,Alt Urgell
-876,252398,"Valls de Valira, les",4,Alt Urgell
-877,431628,Vandellòs i l'Hospitalet de l'Infant,8,Baix Camp
-878,259097,"Vansa i Fórnols, la",4,Alt Urgell
-879,82975,Veciana,6,Anoia
-880,431634,"Vendrell, el",12,Baix Penedès
-881,172109,Ventalló,2,Alt Empordà
-882,252424,Verdú,38,Urgell
-883,172116,Verges,10,Baix Empordà
-884,431649,Vespella de Gaià,36,Tarragonès
-885,82981,Vic,24,Osona
-886,172137,Vidreres,34,Selva
-887,172121,Vidrà,24,Osona
-888,252430,Vielha e Mijaran,39,Aran
-889,431704,Vila-rodona,1,Alt Camp
-890,172305,Vila-sacra,2,Alt Empordà
-891,252521,Vila-sana,27,Pla d'Urgell
-892,431711,Vila-seca,36,Tarragonès
-893,431652,Vilabella,1,Alt Camp
-894,172142,Vilabertran,2,Alt Empordà
-895,172155,Vilablareix,20,Gironès
-896,82994,Vilada,14,Berguedà
-897,172174,Viladamat,2,Alt Empordà
-898,172168,Viladasens,20,Gironès
-899,83015,Viladecans,11,Baix Llobregat
-900,83008,Viladecavalls,40,Vallès Occidental
-901,172180,Vilademuls,28,Pla de l'Estany
-902,172207,Viladrau,24,Osona
-903,172214,Vilafant,2,Alt Empordà
-904,83054,Vilafranca del Penedès,3,Alt Penedès
-905,252445,Vilagrassa,38,Urgell
-906,172235,Vilajuïga,2,Alt Empordà
-907,83067,Vilalba Sasserra,41,Vallès Oriental
-908,431750,Vilalba dels Arcs,37,Terra Alta
-909,252458,Vilaller,5,Alta Ribagorça
-910,172240,Vilallonga de Ter,31,Ripollès
-911,431665,Vilallonga del Camp,36,Tarragonès
-912,172253,Vilamacolum,2,Alt Empordà
-913,172266,Vilamalla,2,Alt Empordà
-914,172272,Vilamaniscle,2,Alt Empordà
-915,252477,Vilamòs,39,Aran
-916,172288,Vilanant,2,Alt Empordà
-917,431671,Vilanova d'Escornalbou,8,Baix Camp
-918,252483,Vilanova de Bellpuig,27,Pla d'Urgell
-919,252509,Vilanova de Meià,23,Noguera
-920,431687,Vilanova de Prades,16,Conca de Barberà
-921,83036,Vilanova de Sau,24,Osona
-922,252516,Vilanova de Segrià,33,Segrià
-923,252496,Vilanova de l'Aguda,23,Noguera
-924,252542,Vilanova de la Barca,33,Segrià
-925,83020,Vilanova del Camí,6,Anoia
-926,89024,Vilanova del Vallès,41,Vallès Oriental
-927,83073,Vilanova i la Geltrú,17,Garraf
-928,431690,Vilaplana,8,Baix Camp
-929,82140,Vilassar de Dalt,21,Maresme
-930,82191,Vilassar de Mar,21,Maresme
-931,431726,Vilaverd,16,Conca de Barberà
-932,172229,Vilaür,2,Alt Empordà
-933,431732,"Vilella Alta, la",29,Priorat
-934,431747,"Vilella Baixa, la",29,Priorat
-935,172333,Vilobí d'Onyar,34,Selva
-936,83041,Vilobí del Penedès,3,Alt Penedès
-937,172327,Vilopriu,10,Baix Empordà
-938,252537,"Vilosell, el",18,Garrigues
-939,431763,Vimbodí i Poblet,16,Conca de Barberà
-940,252555,Vinaixa,18,Garrigues
-941,431779,Vinebre,30,Ribera d'Ebre
-942,431785,Vinyols i els Arcs,8,Baix Camp
-943,83089,Viver i Serrateix,14,Berguedà
-944,430521,Xerta,9,Baix Ebre
-945,250024,Àger,23,Noguera
-946,81430,Òdena,6,Anoia
-947,81537,Òrrius,21,Maresme
+Nom,Codi,Codi comarca,Nom comarca
+Abella de la Conca,250019,25,Pallars Jussà
+Abrera,80018,11,Baix Llobregat
+Agramunt,250030,38,Urgell
+Aguilar de Segarra,80023,7,Bages
+Agullana,170010,2,Alt Empordà
+Aiguafreda,80142,41,Vallès Oriental
+Aiguamúrcia,430017,1,Alt Camp
+Aiguaviva,170025,20,Gironès
+Aitona,250387,33,Segrià
+"Alamús, els",250045,33,Segrià
+"Albagés, l'",250061,18,Garrigues
+Albanyà,170031,2,Alt Empordà
+Albatàrrec,250077,33,Segrià
+Albesa,250083,23,Noguera
+"Albi, l'",250096,18,Garrigues
+Albinyana,430022,12,Baix Penedès
+"Albiol, l'",430038,8,Baix Camp
+Albons,170046,10,Baix Empordà
+Alcanar,430043,22,Montsià
+Alcanó,250100,33,Segrià
+Alcarràs,250117,33,Segrià
+Alcoletge,250122,33,Segrià
+Alcover,430056,1,Alt Camp
+"Aldea, l'",439044,9,Baix Ebre
+Aldover,430069,9,Baix Ebre
+"Aleixar, l'",430075,8,Baix Camp
+Alella,80039,21,Maresme
+Alfara de Carles,430081,9,Baix Ebre
+Alfarràs,250138,33,Segrià
+Alforja,430094,8,Baix Camp
+Alfés,250143,33,Segrià
+Algerri,250156,23,Noguera
+Alguaire,250169,33,Segrià
+Alins,250175,26,Pallars Sobirà
+Alió,430108,1,Alt Camp
+Almacelles,250194,33,Segrià
+Almatret,250208,33,Segrià
+Almenar,250215,33,Segrià
+Almoster,430115,8,Baix Camp
+Alp,170062,15,Cerdanya
+Alpens,80044,24,Osona
+Alpicat,250236,33,Segrià
+Alt Àneu,250241,26,Pallars Sobirà
+Altafulla,430120,36,Tarragonès
+Alàs i Cerc,250058,4,Alt Urgell
+Alòs de Balaguer,250220,23,Noguera
+Amer,170078,34,Selva
+"Ametlla de Mar, l'",430136,9,Baix Ebre
+"Ametlla del Vallès, l'",80057,41,Vallès Oriental
+"Ampolla, l'",439060,9,Baix Ebre
+Amposta,430141,22,Montsià
+Anglesola,250273,38,Urgell
+Anglès,170084,34,Selva
+Arbeca,250292,18,Garrigues
+Arbolí,430154,8,Baix Camp
+"Arboç, l'",430167,12,Baix Penedès
+Arbúcies,170097,34,Selva
+Arenys de Mar,80060,21,Maresme
+Arenys de Munt,80076,21,Maresme
+Argelaguer,170101,19,Garrotxa
+"Argentera, l'",430173,8,Baix Camp
+Argentona,80095,21,Maresme
+Argençola,80082,6,Anoia
+"Armentera, l'",170118,2,Alt Empordà
+Arnes,430189,37,Terra Alta
+Arres,250313,39,Aran
+Arsèguel,250328,4,Alt Urgell
+Artesa de Lleida,250334,33,Segrià
+Artesa de Segre,250349,23,Noguera
+Artés,80109,7,Bages
+Ascó,430192,30,Ribera d'Ebre
+Aspa,250365,33,Segrià
+"Avellanes i Santa Linya, les",250371,23,Noguera
+Avinyonet de Puigventós,170123,2,Alt Empordà
+Avinyonet del Penedès,80137,3,Alt Penedès
+Avinyó,80121,7,Bages
+Avià,80116,14,Berguedà
+Badalona,80155,13,Barcelonès
+Badia del Vallès,89045,40,Vallès Occidental
+Bagà,80168,14,Berguedà
+Baix Pallars,250390,26,Pallars Sobirà
+Balaguer,250404,23,Noguera
+Balenyà,80174,24,Osona
+Balsareny,80180,7,Bages
+Banyeres del Penedès,430206,12,Baix Penedès
+Banyoles,170157,28,Pla de l'Estany
+Barbens,250411,27,Pla d'Urgell
+Barberà de la Conca,430213,16,Conca de Barberà
+Barberà del Vallès,82520,40,Vallès Occidental
+Barcelona,80193,13,Barcelonès
+"Baronia de Rialb, la",250426,23,Noguera
+Bassella,250447,4,Alt Urgell
+Batea,430228,37,Terra Alta
+Bausen,250450,39,Aran
+Begues,80207,11,Baix Llobregat
+Begur,170139,10,Baix Empordà
+Belianes,250463,38,Urgell
+Bell-lloc d'Urgell,250485,27,Pla d'Urgell
+Bellaguarda,251706,18,Garrigues
+Bellcaire d'Empordà,170182,10,Baix Empordà
+Bellcaire d'Urgell,250479,23,Noguera
+Bellmunt d'Urgell,250498,23,Noguera
+Bellmunt del Priorat,430234,29,Priorat
+Bellprat,80214,6,Anoia
+Bellpuig,250501,38,Urgell
+Bellvei,430249,12,Baix Penedès
+Bellver de Cerdanya,250518,15,Cerdanya
+Bellvís,250523,27,Pla d'Urgell
+Benavent de Segrià,250539,33,Segrià
+Benifallet,430252,9,Baix Ebre
+Benissanet,430265,30,Ribera d'Ebre
+Berga,80229,14,Berguedà
+Besalú,170195,19,Garrotxa
+Bescanó,170209,20,Gironès
+Beuda,170216,19,Garrotxa
+Bigues i Riells,80235,41,Vallès Oriental
+Biosca,250557,32,Segarra
+"Bisbal d'Empordà, la",170221,10,Baix Empordà
+"Bisbal de Falset, la",430271,29,Priorat
+"Bisbal del Penedès, la",430287,12,Baix Penedès
+Biure,172348,2,Alt Empordà
+Blancafort,430290,16,Conca de Barberà
+Blanes,170237,34,Selva
+Boadella i les Escaules,170293,2,Alt Empordà
+Bolvir,170242,15,Cerdanya
+Bonastre,430304,12,Baix Penedès
+Bordils,170255,20,Gironès
+"Borges Blanques, les",250582,18,Garrigues
+"Borges del Camp, les",430311,8,Baix Camp
+Borrassà,170268,2,Alt Empordà
+Borredà,80240,14,Berguedà
+Bossòst,250595,39,Aran
+Bot,430326,37,Terra Alta
+Botarell,430332,8,Baix Camp
+Bovera,250560,18,Garrigues
+Breda,170274,34,Selva
+"Bruc, el",80253,6,Anoia
+"Brull, el",80266,24,Osona
+Brunyola,170280,34,Selva
+Bràfim,430347,1,Alt Camp
+Bàscara,170160,2,Alt Empordà
+"Bòrdes, Es",250576,39,Aran
+Cabacés,430350,29,Priorat
+Cabanabona,250609,23,Noguera
+Cabanelles,170314,2,Alt Empordà
+Cabanes,170307,2,Alt Empordà
+"Cabanyes, les",80272,3,Alt Penedès
+Cabra del Camp,430363,1,Alt Camp
+Cabrera d'Anoia,80288,6,Anoia
+Cabrera de Mar,80291,21,Maresme
+Cabrils,80305,21,Maresme
+Cabó,250616,4,Alt Urgell
+Cadaqués,170329,2,Alt Empordà
+Calaf,80312,6,Anoia
+Calafell,430379,12,Baix Penedès
+Calders,80348,42,Moianès
+Caldes d'Estrac,80327,21,Maresme
+Caldes de Malavella,170335,34,Selva
+Caldes de Montbui,80333,41,Vallès Oriental
+Calella,80351,21,Maresme
+Calldetenes,80370,24,Osona
+Callús,80386,7,Bages
+Calonge,170340,10,Baix Empordà
+Calonge de Segarra,80364,6,Anoia
+Camarasa,250621,23,Noguera
+Camarles,439039,9,Baix Ebre
+Cambrils,430385,8,Baix Camp
+Campdevànol,170366,31,Ripollès
+Campelles,170372,31,Ripollès
+Campins,80399,41,Vallès Oriental
+Campllong,170388,20,Gironès
+Camprodon,170391,31,Ripollès
+Camós,170353,28,Pla de l'Estany
+Canejan,250637,39,Aran
+Canet d'Adri,170405,20,Gironès
+Canet de Mar,80403,21,Maresme
+"Canonja, la",439076,36,Tarragonès
+Canovelles,80410,41,Vallès Oriental
+Cantallops,170412,2,Alt Empordà
+Canyelles,80431,17,Garraf
+Capafonts,430398,8,Baix Camp
+Capellades,80446,6,Anoia
+Capmany,170427,2,Alt Empordà
+Capolat,80459,14,Berguedà
+Capçanes,430402,29,Priorat
+Cardedeu,80462,41,Vallès Oriental
+Cardona,80478,7,Bages
+Carme,80484,6,Anoia
+Caseres,430419,37,Terra Alta
+Casserres,80497,14,Berguedà
+Cassà de la Selva,170448,20,Gironès
+Castell de Mur,259046,25,Pallars Jussà
+Castell de l'Areny,80575,14,Berguedà
+Castell-Platja d'Aro,170486,10,Baix Empordà
+Castellar de la Ribera,250642,35,Solsonès
+Castellar de n'Hug,80522,14,Berguedà
+Castellar del Riu,80500,14,Berguedà
+Castellar del Vallès,80517,40,Vallès Occidental
+Castellbell i el Vilar,80538,7,Bages
+Castellbisbal,80543,40,Vallès Occidental
+Castellcir,80556,42,Moianès
+Castelldans,250674,18,Garrigues
+Castelldefels,80569,11,Baix Llobregat
+Castellet i la Gornal,80581,3,Alt Penedès
+Castellfollit de Riubregós,80608,6,Anoia
+Castellfollit de la Roca,170464,19,Garrotxa
+Castellfollit del Boix,80594,7,Bages
+Castellgalí,80615,7,Bages
+Castellnou de Bages,80620,7,Bages
+Castellnou de Seana,250680,27,Pla d'Urgell
+Castellolí,80636,6,Anoia
+Castellserà,250707,38,Urgell
+Castellterçol,80641,42,Moianès
+Castellvell del Camp,430424,8,Baix Camp
+Castellví de Rosanes,80667,11,Baix Llobregat
+Castellví de la Marca,80654,3,Alt Penedès
+Castelló d'Empúries,170470,2,Alt Empordà
+Castelló de Farfanya,250693,23,Noguera
+"Catllar, el",430430,36,Tarragonès
+Cava,250714,4,Alt Urgell
+"Cellera de Ter, la",171899,34,Selva
+Celrà,170499,20,Gironès
+Centelles,80673,24,Osona
+Cercs,82687,14,Berguedà
+Cerdanyola del Vallès,82665,40,Vallès Occidental
+Cervelló,80689,11,Baix Llobregat
+Cervera,250729,32,Segarra
+Cervià de Ter,170502,20,Gironès
+Cervià de les Garrigues,250735,18,Garrigues
+Cistella,170519,2,Alt Empordà
+Ciutadilla,250740,38,Urgell
+Clariana de Cardener,250753,35,Solsonès
+"Cogul, el",250766,18,Garrigues
+Colera,170545,2,Alt Empordà
+Coll de Nargó,250772,4,Alt Urgell
+Collbató,80692,11,Baix Llobregat
+Colldejou,430458,8,Baix Camp
+Collsuspina,80706,42,Moianès
+Colomers,170558,10,Baix Empordà
+"Coma i la Pedra, la",251636,35,Solsonès
+Conca de Dalt,251615,25,Pallars Jussà
+Conesa,430461,16,Conca de Barberà
+Constantí,430477,36,Tarragonès
+Copons,80713,6,Anoia
+Corbera d'Ebre,430483,37,Terra Alta
+Corbera de Llobregat,80728,11,Baix Llobregat
+Corbins,250788,33,Segrià
+Cornellà de Llobregat,80734,11,Baix Llobregat
+Cornellà del Terri,170561,28,Pla de l'Estany
+Cornudella de Montsant,430496,29,Priorat
+Corçà,170577,10,Baix Empordà
+Creixell,430509,36,Tarragonès
+Crespià,170583,28,Pla de l'Estany
+"Cruïlles, Monells i Sant Sadurní de l'Heura",179011,10,Baix Empordà
+Cubelles,80749,17,Garraf
+Cubells,250791,23,Noguera
+Cunit,430516,12,Baix Penedès
+Cànoves i Samalús,80425,41,Vallès Oriental
+Darnius,170600,2,Alt Empordà
+Das,170617,15,Cerdanya
+Deltebre,439018,9,Baix Ebre
+Dosrius,80752,21,Maresme
+Duesaigües,430537,8,Baix Camp
+"Escala, l'",170622,2,Alt Empordà
+Esparreguera,80765,11,Baix Llobregat
+Espinelves,170638,24,Osona
+"Espluga Calba, l'",250812,18,Garrigues
+"Espluga de Francolí, l'",430542,16,Conca de Barberà
+Esplugues de Llobregat,80771,11,Baix Llobregat
+Espolla,170643,2,Alt Empordà
+Esponellà,170656,28,Pla de l'Estany
+Espot,250827,26,Pallars Sobirà
+"Espunyola, l'",80787,14,Berguedà
+"Esquirol, l'",82541,24,Osona
+Estamariu,250886,4,Alt Urgell
+"Estany, l'",80790,42,Moianès
+Estaràs,250851,32,Segarra
+Esterri d'Àneu,250864,26,Pallars Sobirà
+Esterri de Cardós,250870,26,Pallars Sobirà
+Falset,430555,29,Priorat
+"Far d'Empordà, el",170059,2,Alt Empordà
+Farrera,250899,26,Pallars Sobirà
+"Fatarella, la",430568,37,Terra Alta
+"Febró, la",430574,8,Baix Camp
+Figaró-Montmany,81347,41,Vallès Oriental
+"Figuera, la",430580,29,Priorat
+Figueres,170669,2,Alt Empordà
+Figuerola del Camp,430593,1,Alt Camp
+Flaçà,170675,20,Gironès
+Flix,430607,30,Ribera d'Ebre
+"Floresta, la",250925,18,Garrigues
+Fogars de Montclús,80811,41,Vallès Oriental
+Fogars de la Selva,80826,34,Selva
+Foixà,170681,10,Baix Empordà
+Folgueroles,80832,24,Osona
+Fondarella,250931,27,Pla d'Urgell
+Fonollosa,80847,7,Bages
+Font-rubí,80850,3,Alt Penedès
+Fontanals de Cerdanya,170694,15,Cerdanya
+Fontanilles,170708,10,Baix Empordà
+Fontcoberta,170715,28,Pla de l'Estany
+Foradada,250946,23,Noguera
+Forallac,179026,10,Baix Empordà
+Fornells de la Selva,170736,20,Gironès
+Fortià,170741,2,Alt Empordà
+Forès,430614,16,Conca de Barberà
+"Franqueses del Vallès, les",80863,41,Vallès Oriental
+Freginals,430629,22,Montsià
+"Fuliola, la",250962,38,Urgell
+Fulleda,250978,18,Garrigues
+Fígols,80804,14,Berguedà
+Fígols i Alinyà,259084,4,Alt Urgell
+Gaià,80902,7,Bages
+"Galera, la",430635,22,Montsià
+Gallifa,80879,40,Vallès Occidental
+Gandesa,430640,37,Terra Alta
+Garcia,430653,30,Ribera d'Ebre
+"Garidells, els",430666,1,Alt Camp
+"Garriga, la",80885,41,Vallès Oriental
+Garrigoles,170767,10,Baix Empordà
+Garriguella,170773,2,Alt Empordà
+Garrigàs,170754,2,Alt Empordà
+Gavet de la Conca,250984,25,Pallars Jussà
+Gavà,80898,11,Baix Llobregat
+Gelida,80919,3,Alt Penedès
+Ger,170789,15,Cerdanya
+Gimenells i el Pla de la Font,259123,33,Segrià
+Ginestar,430672,30,Ribera d'Ebre
+Girona,170792,20,Gironès
+Gironella,80924,14,Berguedà
+Gisclareny,80930,14,Berguedà
+Godall,430688,22,Montsià
+Golmés,250997,27,Pla d'Urgell
+Gombrèn,170806,31,Ripollès
+"Granada, la",80945,3,Alt Penedès
+"Granadella, la",251018,18,Garrigues
+Granera,80958,42,Moianès
+"Granja d'Escarp, la",251023,33,Segrià
+Granollers,80961,41,Vallès Oriental
+Granyanella,251039,32,Segarra
+Granyena de Segarra,251044,32,Segarra
+Granyena de les Garrigues,251057,18,Garrigues
+Gratallops,430691,29,Priorat
+Gualba,80977,41,Vallès Oriental
+Gualta,170813,10,Baix Empordà
+Guardiola de Berguedà,80996,14,Berguedà
+"Guiamets, els",430705,29,Priorat
+Guils de Cerdanya,170828,15,Cerdanya
+Guimerà,251095,38,Urgell
+"Guingueta d'Àneu, la",259031,26,Pallars Sobirà
+Guissona,251109,32,Segarra
+Guixers,251116,35,Solsonès
+Gurb,81000,24,Osona
+Gósol,251001,14,Berguedà
+Horta de Sant Joan,430712,37,Terra Alta
+"Hospitalet de Llobregat, l'",81017,13,Barcelonès
+"Hostalets de Pierola, els",81629,6,Anoia
+Hostalric,170834,34,Selva
+Igualada,81022,6,Anoia
+Isona i Conca Dellà,251155,25,Pallars Jussà
+Isòvol,170849,15,Cerdanya
+Ivars d'Urgell,251137,27,Pla d'Urgell
+Ivars de Noguera,251121,23,Noguera
+Ivorra,251142,32,Segarra
+Jafre,170852,10,Baix Empordà
+"Jonquera, la",170865,2,Alt Empordà
+Jorba,81038,6,Anoia
+Josa i Tuixén,259101,4,Alt Urgell
+Juià,170871,20,Gironès
+Juncosa,251180,18,Garrigues
+Juneda,251193,18,Garrigues
+Les,251214,39,Aran
+Linyola,251229,27,Pla d'Urgell
+"Llacuna, la",81043,6,Anoia
+Lladorre,251235,26,Pallars Sobirà
+Lladurs,251240,35,Solsonès
+Lladó,170887,2,Alt Empordà
+"Llagosta, la",81056,41,Vallès Oriental
+Llagostera,170890,20,Gironès
+Llambilles,170904,20,Gironès
+Llanars,170911,31,Ripollès
+Llançà,170926,2,Alt Empordà
+Llardecans,251253,33,Segrià
+Llavorsí,251266,26,Pallars Sobirà
+Lleida,251207,33,Segrià
+Llers,170932,2,Alt Empordà
+Lles de Cerdanya,251272,15,Cerdanya
+Llimiana,251288,25,Pallars Jussà
+Llinars del Vallès,81069,41,Vallès Oriental
+Lliçà d'Amunt,81075,41,Vallès Oriental
+Lliçà de Vall,81081,41,Vallès Oriental
+"Lloar, el",430727,29,Priorat
+Llobera,251291,35,Solsonès
+Llorac,430733,16,Conca de Barberà
+Llorenç del Penedès,430748,12,Baix Penedès
+Lloret de Mar,170950,34,Selva
+"Llosses, les",170963,31,Ripollès
+Lluçà,81094,24,Osona
+Llívia,170947,15,Cerdanya
+Madremanya,170979,20,Gironès
+Maials,251333,33,Segrià
+Maià de Montcal,170985,19,Garrotxa
+Maldà,251305,38,Urgell
+Malgrat de Mar,81108,21,Maresme
+Malla,81115,24,Osona
+Manlleu,81120,24,Osona
+Manresa,81136,7,Bages
+Margalef,430751,29,Priorat
+Marganell,82423,7,Bages
+Martorell,81141,11,Baix Llobregat
+Martorelles,81154,41,Vallès Oriental
+Marçà,430764,29,Priorat
+Mas de Barberans,430770,22,Montsià
+Masarac,171002,2,Alt Empordà
+Masdenverge,430786,22,Montsià
+"Masies de Roda, les",81167,24,Osona
+"Masies de Voltregà, les",81173,24,Osona
+Masllorenç,430799,12,Baix Penedès
+"Masnou, el",81189,21,Maresme
+Maspujols,430810,8,Baix Camp
+Masquefa,81192,6,Anoia
+"Masroig, el",430825,29,Priorat
+Massalcoreig,251312,33,Segrià
+Massanes,171019,34,Selva
+Massoteres,251327,32,Segarra
+"Masó, la",430803,1,Alt Camp
+Matadepera,81206,40,Vallès Occidental
+Mataró,81213,21,Maresme
+Maçanet de Cabrenys,171024,2,Alt Empordà
+Maçanet de la Selva,171030,34,Selva
+Medinyà,171045,20,Gironès
+Mediona,81228,3,Alt Penedès
+Menàrguens,251348,23,Noguera
+Meranges,170998,15,Cerdanya
+Mieres,171058,19,Garrotxa
+"Milà, el",430831,1,Alt Camp
+Miralcamp,251351,27,Pla d'Urgell
+Miravet,430846,30,Ribera d'Ebre
+Moià,81385,42,Moianès
+"Molar, el",430859,29,Priorat
+Molins de Rei,81234,11,Baix Llobregat
+Mollerussa,251370,27,Pla d'Urgell
+Mollet de Peralada,171061,2,Alt Empordà
+Mollet del Vallès,81249,41,Vallès Oriental
+Molló,171077,31,Ripollès
+"Molsosa, la",251364,35,Solsonès
+Monistrol de Calders,81287,42,Moianès
+Monistrol de Montserrat,81271,7,Bages
+Mont-ral,430918,1,Alt Camp
+Mont-ras,171100,10,Baix Empordà
+Mont-roig del Camp,430923,8,Baix Camp
+Montagut i Oix,171096,19,Garrotxa
+Montblanc,430862,16,Conca de Barberà
+Montbrió del Camp,430884,8,Baix Camp
+Montcada i Reixac,81252,40,Vallès Occidental
+Montclar,81304,14,Berguedà
+Montellà i Martinet,251399,15,Cerdanya
+Montesquiu,81311,24,Osona
+Montferrer i Castellbò,251403,4,Alt Urgell
+Montferri,430897,1,Alt Camp
+Montgai,251386,23,Noguera
+Montgat,81265,21,Maresme
+Montmajor,81326,14,Berguedà
+Montmaneu,81332,6,Anoia
+"Montmell, el",430901,12,Baix Penedès
+Montmeló,81350,41,Vallès Oriental
+Montoliu de Lleida,251425,33,Segrià
+Montoliu de Segarra,251410,32,Segarra
+Montornès de Segarra,251431,32,Segarra
+Montornès del Vallès,81363,41,Vallès Oriental
+Montseny,81379,41,Vallès Oriental
+"Morell, el",430957,36,Tarragonès
+"Morera de Montsant, la",430960,29,Priorat
+Muntanyola,81290,24,Osona
+Mura,81398,7,Bages
+Móra d'Ebre,430939,30,Ribera d'Ebre
+Móra la Nova,430944,30,Ribera d'Ebre
+Nalec,251459,38,Urgell
+Naut Aran,250254,39,Aran
+Navarcles,81402,7,Bages
+Navata,171117,2,Alt Empordà
+Navàs,81419,7,Bages
+Navès,251462,35,Solsonès
+"Nou de Berguedà, la",81424,14,Berguedà
+"Nou de Gaià, la",430976,36,Tarragonès
+Nulles,430982,1,Alt Camp
+Odèn,251484,35,Solsonès
+Ogassa,171122,31,Ripollès
+Olesa de Bonesvalls,81461,3,Alt Penedès
+Olesa de Montserrat,81477,11,Baix Llobregat
+Oliana,251497,4,Alt Urgell
+Oliola,251500,23,Noguera
+Olius,251517,35,Solsonès
+Olivella,81483,17,Garraf
+Olost,81496,24,Osona
+Olot,171143,19,Garrotxa
+"Oluges, les",251522,32,Segarra
+Olvan,81445,14,Berguedà
+Olèrdola,81458,3,Alt Penedès
+"Omellons, els",251538,18,Garrigues
+"Omells de na Gaia, els",251543,38,Urgell
+Ordis,171156,2,Alt Empordà
+Organyà,251556,4,Alt Urgell
+Oristà,81516,24,Osona
+Orpí,81521,6,Anoia
+Orís,81509,24,Osona
+Os de Balaguer,251569,23,Noguera
+Osor,171169,34,Selva
+Ossó de Sió,251575,38,Urgell
+Pacs del Penedès,81542,3,Alt Penedès
+Palafolls,81555,21,Maresme
+Palafrugell,171175,10,Baix Empordà
+Palamós,171181,10,Baix Empordà
+"Palau d'Anglesola, el",251581,27,Pla d'Urgell
+Palau de Santa Eulàlia,171194,2,Alt Empordà
+Palau-sator,171215,10,Baix Empordà
+Palau-saverdera,171208,2,Alt Empordà
+Palau-solità i Plegamans,81568,40,Vallès Occidental
+"Pallaresos, els",431009,36,Tarragonès
+Pallejà,81574,11,Baix Llobregat
+"Palma d'Ebre, la",430995,30,Ribera d'Ebre
+"Palma de Cervelló, la",89058,11,Baix Llobregat
+Palol de Revardit,171236,28,Pla de l'Estany
+Pals,171241,10,Baix Empordà
+"Papiol, el",81580,11,Baix Llobregat
+Pardines,171254,31,Ripollès
+Parets del Vallès,81593,41,Vallès Oriental
+Parlavà,171267,10,Baix Empordà
+Passanant i Belltall,431016,16,Conca de Barberà
+Pau,171289,2,Alt Empordà
+Paüls,431021,9,Baix Ebre
+Pedret i Marzà,171292,2,Alt Empordà
+Penelles,251641,23,Noguera
+"Pera, la",171306,10,Baix Empordà
+Perafita,81607,24,Osona
+Perafort,431037,36,Tarragonès
+Peralada,171328,2,Alt Empordà
+Peramola,251654,4,Alt Urgell
+"Perelló, el",431042,9,Baix Ebre
+Piera,81614,6,Anoia
+"Piles, les",431055,16,Conca de Barberà
+Pineda de Mar,81635,21,Maresme
+"Pinell de Brai, el",431068,37,Terra Alta
+Pinell de Solsonès,251667,35,Solsonès
+Pinós,251673,35,Solsonès
+Pira,431074,16,Conca de Barberà
+"Pla de Santa Maria, el",431080,1,Alt Camp
+"Pla del Penedès, el",81640,3,Alt Penedès
+"Planes d'Hostoles, les",171334,19,Garrotxa
+Planoles,171349,31,Ripollès
+"Plans de Sió, els",259118,32,Segarra
+"Poal, el",251689,27,Pla d'Urgell
+"Pobla de Claramunt, la",81653,6,Anoia
+"Pobla de Cérvoles, la",251692,18,Garrigues
+"Pobla de Lillet, la",81666,14,Berguedà
+"Pobla de Mafumet, la",431093,36,Tarragonès
+"Pobla de Massaluca, la",431107,37,Terra Alta
+"Pobla de Montornès, la",431114,36,Tarragonès
+"Pobla de Segur, la",251713,25,Pallars Jussà
+Poboleda,431129,29,Priorat
+Polinyà,81672,40,Vallès Occidental
+"Pont d'Armentera, el",431135,1,Alt Camp
+"Pont de Bar, el",250306,4,Alt Urgell
+Pont de Molins,171352,2,Alt Empordà
+"Pont de Suert, el",251734,5,Alta Ribagorça
+"Pont de Vilomara i Rocafort, el",81825,7,Bages
+Pontils,431418,16,Conca de Barberà
+Pontons,81688,3,Alt Penedès
+Ponts,251728,23,Noguera
+Pontós,171365,2,Alt Empordà
+Porqueres,171371,28,Pla de l'Estany
+Porrera,431140,29,Priorat
+"Port de la Selva, el",171404,2,Alt Empordà
+Portbou,171387,2,Alt Empordà
+"Portella, la",251749,33,Segrià
+Pradell de la Teixeta,431153,29,Priorat
+Prades,431166,8,Baix Camp
+Prat de Comte,431172,37,Terra Alta
+"Prat de Llobregat, el",81691,11,Baix Llobregat
+Pratdip,431188,8,Baix Camp
+Prats de Lluçanès,81712,24,Osona
+"Prats de Rei, els",81705,6,Anoia
+Prats i Sansor,251752,15,Cerdanya
+Preixana,251765,38,Urgell
+Preixens,251771,23,Noguera
+Premià de Dalt,82303,21,Maresme
+Premià de Mar,81727,21,Maresme
+"Preses, les",171390,19,Garrotxa
+Prullans,251790,15,Cerdanya
+Puig-reig,81751,14,Berguedà
+Puigcerdà,171411,15,Cerdanya
+Puigdàlber,81748,3,Alt Penedès
+Puiggròs,251804,18,Garrigues
+Puigpelat,431191,1,Alt Camp
+Puigverd d'Agramunt,251811,38,Urgell
+Puigverd de Lleida,251826,33,Segrià
+Pujalt,81764,6,Anoia
+"Quar, la",81770,14,Berguedà
+Quart,171426,20,Gironès
+Queralbs,170433,31,Ripollès
+Querol,431205,1,Alt Camp
+Rabós,171432,2,Alt Empordà
+Rajadell,81786,7,Bages
+Rasquera,431212,30,Ribera d'Ebre
+Regencós,171447,10,Baix Empordà
+Rellinars,81799,40,Vallès Occidental
+Renau,431227,36,Tarragonès
+Reus,431233,8,Baix Camp
+Rialp,251832,26,Pallars Sobirà
+"Riba, la",431248,1,Alt Camp
+Riba-roja d'Ebre,431251,30,Ribera d'Ebre
+Ribera d'Ondara,259059,32,Segarra
+Ribera d'Urgellet,251850,4,Alt Urgell
+Ribes de Freser,171450,31,Ripollès
+Riells i Viabrea,171463,34,Selva
+"Riera de Gaià, la",431264,36,Tarragonès
+Riner,251863,35,Solsonès
+Ripoll,171479,31,Ripollès
+Ripollet,81803,40,Vallès Occidental
+Riu de Cerdanya,259139,15,Cerdanya
+Riudarenes,171485,34,Selva
+Riudaura,171498,19,Garrotxa
+Riudecanyes,431270,8,Baix Camp
+Riudecols,431286,8,Baix Camp
+Riudellots de la Selva,171501,34,Selva
+Riudoms,431299,8,Baix Camp
+Riumors,171518,2,Alt Empordà
+"Roca del Vallès, la",81810,41,Vallès Oriental
+Rocafort de Queralt,431303,16,Conca de Barberà
+Roda de Berà,431310,36,Tarragonès
+Roda de Ter,81831,24,Osona
+Rodonyà,431325,1,Alt Camp
+Roquetes,431331,9,Baix Ebre
+Roses,171523,2,Alt Empordà
+Rosselló,251898,33,Segrià
+"Rourell, el",431346,1,Alt Camp
+Rubió,81859,6,Anoia
+Rubí,81846,40,Vallès Occidental
+Rupit i Pruit,89019,24,Osona
+Rupià,171539,10,Baix Empordà
+Sabadell,81878,40,Vallès Occidental
+Sagàs,81884,14,Berguedà
+Saldes,81901,14,Berguedà
+Sales de Llierca,171544,19,Garrotxa
+Sallent,81918,7,Bages
+Salomó,431359,36,Tarragonès
+Salou,439057,36,Tarragonès
+Salt,171557,20,Gironès
+Salàs de Pallars,251902,25,Pallars Jussà
+Sanaüja,251919,32,Segarra
+Sant Adrià de Besòs,81944,13,Barcelonès
+Sant Agustí de Lluçanès,81957,24,Osona
+Sant Andreu Salou,171576,20,Gironès
+Sant Andreu de Llavaneres,81976,21,Maresme
+Sant Andreu de la Barca,81960,11,Baix Llobregat
+Sant Aniol de Finestres,171833,19,Garrotxa
+Sant Antoni de Vilamajor,81982,41,Vallès Oriental
+Sant Bartomeu del Grau,81995,24,Osona
+Sant Boi de Llobregat,82009,11,Baix Llobregat
+Sant Boi de Lluçanès,82016,24,Osona
+Sant Carles de la Ràpita,431362,22,Montsià
+Sant Cebrià de Vallalta,82037,21,Maresme
+Sant Celoni,82021,41,Vallès Oriental
+Sant Climent Sescebes,171582,2,Alt Empordà
+Sant Climent de Llobregat,82042,11,Baix Llobregat
+Sant Cugat Sesgarrigues,82068,3,Alt Penedès
+Sant Cugat del Vallès,82055,40,Vallès Occidental
+Sant Esteve Sesrovires,82080,11,Baix Llobregat
+Sant Esteve de Palautordera,82074,41,Vallès Oriental
+Sant Esteve de la Sarga,251961,25,Pallars Jussà
+Sant Feliu Sasserra,82129,7,Bages
+Sant Feliu de Buixalleu,171595,34,Selva
+Sant Feliu de Codines,82107,41,Vallès Oriental
+Sant Feliu de Guíxols,171609,10,Baix Empordà
+Sant Feliu de Llobregat,82114,11,Baix Llobregat
+Sant Feliu de Pallerols,171616,19,Garrotxa
+Sant Ferriol,171621,19,Garrotxa
+Sant Fost de Campsentelles,82093,41,Vallès Oriental
+Sant Fruitós de Bages,82135,7,Bages
+Sant Gregori,171637,20,Gironès
+Sant Guim de Freixenet,251924,32,Segarra
+Sant Guim de la Plana,251977,32,Segarra
+Sant Hilari Sacalm,171642,34,Selva
+Sant Hipòlit de Voltregà,82153,24,Osona
+Sant Iscle de Vallalta,81939,21,Maresme
+Sant Jaume d'Enveja,439023,22,Montsià
+Sant Jaume de Frontanyà,82166,14,Berguedà
+Sant Jaume de Llierca,171655,19,Garrotxa
+Sant Jaume dels Domenys,431378,12,Baix Penedès
+Sant Joan Despí,82172,11,Baix Llobregat
+Sant Joan de Mollet,171680,20,Gironès
+Sant Joan de Vilatorrada,82188,7,Bages
+Sant Joan de les Abadesses,171674,31,Ripollès
+Sant Joan les Fonts,171851,19,Garrotxa
+Sant Jordi Desvalls,171668,20,Gironès
+Sant Julià de Cerdanyola,89030,14,Berguedà
+Sant Julià de Ramis,171693,20,Gironès
+Sant Julià de Vilatorta,82205,24,Osona
+Sant Julià del Llor i Bonmatí,179032,34,Selva
+Sant Just Desvern,82212,11,Baix Llobregat
+Sant Llorenç Savall,82233,40,Vallès Occidental
+Sant Llorenç d'Hortons,82227,3,Alt Penedès
+Sant Llorenç de Morunys,251930,35,Solsonès
+Sant Llorenç de la Muga,171714,2,Alt Empordà
+Sant Martí Sarroca,82270,3,Alt Penedès
+Sant Martí Sesgueioles,82286,6,Anoia
+Sant Martí Vell,171735,20,Gironès
+Sant Martí d'Albars,82251,24,Osona
+Sant Martí de Centelles,82248,24,Osona
+Sant Martí de Llémena,171729,20,Gironès
+Sant Martí de Riucorb,259025,38,Urgell
+Sant Martí de Tous,82264,6,Anoia
+Sant Mateu de Bages,82299,7,Bages
+Sant Miquel de Campmajor,171740,28,Pla de l'Estany
+Sant Miquel de Fluvià,171753,2,Alt Empordà
+Sant Mori,171766,2,Alt Empordà
+Sant Pau de Segúries,171772,31,Ripollès
+Sant Pere Pescador,171788,2,Alt Empordà
+Sant Pere Sallavinera,81897,6,Anoia
+Sant Pere de Ribes,82310,17,Garraf
+Sant Pere de Riudebitlles,82325,3,Alt Penedès
+Sant Pere de Torelló,82331,24,Osona
+Sant Pere de Vilamajor,82346,41,Vallès Oriental
+Sant Pol de Mar,82359,21,Maresme
+Sant Quintí de Mediona,82362,3,Alt Penedès
+Sant Quirze Safaja,82397,42,Moianès
+Sant Quirze de Besora,82378,24,Osona
+Sant Quirze del Vallès,82384,40,Vallès Occidental
+Sant Ramon,251945,32,Segarra
+Sant Sadurní d'Anoia,82401,3,Alt Penedès
+Sant Sadurní d'Osormort,82418,24,Osona
+Sant Salvador de Guardiola,80983,7,Bages
+Sant Vicenç de Castellet,82628,7,Bages
+Sant Vicenç de Montalt,82649,21,Maresme
+Sant Vicenç de Torelló,82652,24,Osona
+Sant Vicenç dels Horts,82634,11,Baix Llobregat
+Santa Bàrbara,431384,22,Montsià
+Santa Cecília de Voltregà,82439,24,Osona
+Santa Coloma de Cervelló,82444,11,Baix Llobregat
+Santa Coloma de Farners,171805,34,Selva
+Santa Coloma de Gramenet,82457,13,Barcelonès
+Santa Coloma de Queralt,431397,16,Conca de Barberà
+Santa Cristina d'Aro,171812,10,Baix Empordà
+Santa Eugènia de Berga,82460,24,Osona
+Santa Eulàlia de Riuprimer,82476,24,Osona
+Santa Eulàlia de Ronçana,82482,41,Vallès Oriental
+Santa Fe del Penedès,82495,3,Alt Penedès
+Santa Llogaia d'Àlguema,171827,2,Alt Empordà
+Santa Margarida de Montbui,82508,6,Anoia
+Santa Margarida i els Monjos,82515,3,Alt Penedès
+Santa Maria d'Oló,82589,42,Moianès
+Santa Maria de Besora,82536,24,Osona
+Santa Maria de Martorelles,82567,41,Vallès Oriental
+Santa Maria de Merlès,82554,14,Berguedà
+Santa Maria de Miralles,82573,6,Anoia
+Santa Maria de Palautordera,82592,41,Vallès Oriental
+Santa Oliva,431401,12,Baix Penedès
+Santa Pau,171848,19,Garrotxa
+Santa Perpètua de Mogoda,82606,40,Vallès Occidental
+Santa Susanna,82613,21,Maresme
+Santpedor,81923,7,Bages
+Sarral,431423,16,Conca de Barberà
+Sarrià de Ter,171864,20,Gironès
+Sarroca de Bellera,252017,25,Pallars Jussà
+Sarroca de Lleida,252000,33,Segrià
+"Saus, Camallera i Llampaies",171870,2,Alt Empordà
+Savallà del Comtat,431439,16,Conca de Barberà
+"Secuita, la",431444,36,Tarragonès
+"Selva de Mar, la",171886,2,Alt Empordà
+"Selva del Camp, la",431457,8,Baix Camp
+Senan,431460,16,Conca de Barberà
+Senterada,252022,25,Pallars Jussà
+"Sentiu de Sió, la",250352,23,Noguera
+Sentmenat,82671,40,Vallès Occidental
+Serinyà,171903,28,Pla de l'Estany
+Serra de Daró,171910,10,Baix Empordà
+Seròs,252043,33,Segrià
+Setcases,171925,31,Ripollès
+"Seu d'Urgell, la",252038,4,Alt Urgell
+Seva,82690,24,Osona
+Sidamon,252056,27,Pla d'Urgell
+Sils,171931,34,Selva
+Sitges,82704,17,Garraf
+Siurana,170524,2,Alt Empordà
+Sobremunt,82711,24,Osona
+"Soleràs, el",252069,18,Garrigues
+Solivella,431476,16,Conca de Barberà
+Solsona,252075,35,Solsonès
+Sora,82726,24,Osona
+Soriguera,252081,26,Pallars Sobirà
+Sort,252094,26,Pallars Sobirà
+Soses,252108,33,Segrià
+Subirats,82732,3,Alt Penedès
+Sudanell,252115,33,Segrià
+Sunyer,252120,33,Segrià
+Susqueda,171946,34,Selva
+"Sénia, la",430445,22,Montsià
+Súria,82747,7,Bages
+Tagamanent,82763,41,Vallès Oriental
+Talamanca,82779,7,Bages
+Talarn,252154,25,Pallars Jussà
+Talavera,252167,32,Segarra
+"Tallada d'Empordà, la",171959,10,Baix Empordà
+Taradell,82785,24,Osona
+Tarragona,431482,36,Tarragonès
+Tarroja de Segarra,252192,32,Segarra
+Tarrés,252189,18,Garrigues
+Tavertet,82802,24,Osona
+Tavèrnoles,82750,24,Osona
+Teià,82819,21,Maresme
+Terrades,171962,2,Alt Empordà
+Terrassa,82798,40,Vallès Occidental
+Tiana,82824,21,Maresme
+Tiurana,252228,23,Noguera
+Tivenys,431495,9,Baix Ebre
+Tivissa,431508,30,Ribera d'Ebre
+Tona,82830,24,Osona
+Tordera,82845,21,Maresme
+Torelló,82858,24,Osona
+"Torms, els",252249,18,Garrigues
+Tornabous,252252,38,Urgell
+"Torre de Cabdella, la",252271,25,Pallars Jussà
+"Torre de Claramunt, la",82861,6,Anoia
+"Torre de Fontaubella, la",431515,29,Priorat
+"Torre de l'Espanyol, la",431520,30,Ribera d'Ebre
+Torre-serona,252332,33,Segrià
+Torrebesses,252265,33,Segrià
+Torredembarra,431536,36,Tarragonès
+Torrefarrera,252287,33,Segrià
+Torrefeta i Florejacs,259078,32,Segarra
+Torregrossa,252304,27,Pla d'Urgell
+Torrelameu,252311,23,Noguera
+Torrelavit,82877,3,Alt Penedès
+Torrelles de Foix,82883,3,Alt Penedès
+Torrelles de Llobregat,82896,11,Baix Llobregat
+Torrent,171978,10,Baix Empordà
+Torres de Segre,252326,33,Segrià
+Torroella de Fluvià,171984,2,Alt Empordà
+Torroella de Montgrí,171997,10,Baix Empordà
+Torroja del Priorat,431541,29,Priorat
+Tortellà,172001,19,Garrotxa
+Tortosa,431554,9,Baix Ebre
+Torà,252234,32,Segarra
+Toses,172018,31,Ripollès
+Tossa de Mar,172023,34,Selva
+Tremp,252347,25,Pallars Jussà
+Tàrrega,252173,38,Urgell
+Térmens,252206,23,Noguera
+Tírvia,252213,26,Pallars Sobirà
+Ullastrell,82900,40,Vallès Occidental
+Ullastret,172057,10,Baix Empordà
+Ulldecona,431567,22,Montsià
+Ulldemolins,431573,29,Priorat
+Ullà,172044,10,Baix Empordà
+Ultramort,172039,10,Baix Empordà
+Urús,172060,15,Cerdanya
+Vacarisses,82917,40,Vallès Occidental
+"Vajol, la",170144,2,Alt Empordà
+"Vall d'en Bas, la",172076,19,Garrotxa
+"Vall de Bianya, la",172082,19,Garrotxa
+"Vall de Boí, la",250432,5,Alta Ribagorça
+Vall de Cardós,259010,26,Pallars Sobirà
+Vall-llobrega,172095,10,Baix Empordà
+Vallbona d'Anoia,82922,6,Anoia
+Vallbona de les Monges,252385,38,Urgell
+Vallcebre,82938,14,Berguedà
+Vallclara,431589,16,Conca de Barberà
+Vallfogona de Balaguer,252402,23,Noguera
+Vallfogona de Ripollès,171707,31,Ripollès
+Vallfogona de Riucorb,431592,16,Conca de Barberà
+Vallgorguina,82943,41,Vallès Oriental
+Vallirana,82956,11,Baix Llobregat
+Vallmoll,431606,1,Alt Camp
+Vallromanes,82969,41,Vallès Oriental
+Valls,431613,1,Alt Camp
+"Valls d'Aguilar, les",259062,4,Alt Urgell
+"Valls de Valira, les",252398,4,Alt Urgell
+Vandellòs i l'Hospitalet de l'Infant,431628,8,Baix Camp
+"Vansa i Fórnols, la",259097,4,Alt Urgell
+Veciana,82975,6,Anoia
+"Vendrell, el",431634,12,Baix Penedès
+Ventalló,172109,2,Alt Empordà
+Verdú,252424,38,Urgell
+Verges,172116,10,Baix Empordà
+Vespella de Gaià,431649,36,Tarragonès
+Vic,82981,24,Osona
+Vidreres,172137,34,Selva
+Vidrà,172121,24,Osona
+Vielha e Mijaran,252430,39,Aran
+Vila-rodona,431704,1,Alt Camp
+Vila-sacra,172305,2,Alt Empordà
+Vila-sana,252521,27,Pla d'Urgell
+Vila-seca,431711,36,Tarragonès
+Vilabella,431652,1,Alt Camp
+Vilabertran,172142,2,Alt Empordà
+Vilablareix,172155,20,Gironès
+Vilada,82994,14,Berguedà
+Viladamat,172174,2,Alt Empordà
+Viladasens,172168,20,Gironès
+Viladecans,83015,11,Baix Llobregat
+Viladecavalls,83008,40,Vallès Occidental
+Vilademuls,172180,28,Pla de l'Estany
+Viladrau,172207,24,Osona
+Vilafant,172214,2,Alt Empordà
+Vilafranca del Penedès,83054,3,Alt Penedès
+Vilagrassa,252445,38,Urgell
+Vilajuïga,172235,2,Alt Empordà
+Vilalba Sasserra,83067,41,Vallès Oriental
+Vilalba dels Arcs,431750,37,Terra Alta
+Vilaller,252458,5,Alta Ribagorça
+Vilallonga de Ter,172240,31,Ripollès
+Vilallonga del Camp,431665,36,Tarragonès
+Vilamacolum,172253,2,Alt Empordà
+Vilamalla,172266,2,Alt Empordà
+Vilamaniscle,172272,2,Alt Empordà
+Vilamòs,252477,39,Aran
+Vilanant,172288,2,Alt Empordà
+Vilanova d'Escornalbou,431671,8,Baix Camp
+Vilanova de Bellpuig,252483,27,Pla d'Urgell
+Vilanova de Meià,252509,23,Noguera
+Vilanova de Prades,431687,16,Conca de Barberà
+Vilanova de Sau,83036,24,Osona
+Vilanova de Segrià,252516,33,Segrià
+Vilanova de l'Aguda,252496,23,Noguera
+Vilanova de la Barca,252542,33,Segrià
+Vilanova del Camí,83020,6,Anoia
+Vilanova del Vallès,89024,41,Vallès Oriental
+Vilanova i la Geltrú,83073,17,Garraf
+Vilaplana,431690,8,Baix Camp
+Vilassar de Dalt,82140,21,Maresme
+Vilassar de Mar,82191,21,Maresme
+Vilaverd,431726,16,Conca de Barberà
+Vilaür,172229,2,Alt Empordà
+"Vilella Alta, la",431732,29,Priorat
+"Vilella Baixa, la",431747,29,Priorat
+Vilobí d'Onyar,172333,34,Selva
+Vilobí del Penedès,83041,3,Alt Penedès
+Vilopriu,172327,10,Baix Empordà
+"Vilosell, el",252537,18,Garrigues
+Vimbodí i Poblet,431763,16,Conca de Barberà
+Vinaixa,252555,18,Garrigues
+Vinebre,431779,30,Ribera d'Ebre
+Vinyols i els Arcs,431785,8,Baix Camp
+Viver i Serrateix,83089,14,Berguedà
+Xerta,430521,9,Baix Ebre
+Àger,250024,23,Noguera
+Òdena,81430,6,Anoia
+Òrrius,81537,21,Maresme
